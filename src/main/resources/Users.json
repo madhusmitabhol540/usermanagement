@@ -1,0 +1,21 @@
+{"users": [
+        {
+          "username": "Madhusmita",
+          "password": "madhu@123",
+		  "firstname": "Madhu",
+		  "lastname": "smita"
+        },
+        {
+          "username": "Archana",
+          "password": "arch@123",
+		  "firstname": "Arch",
+		  "lastname": "Sahapur"
+        },
+		{
+          "username": "Manjunath",
+          "password": "manju@123",
+		  "firstname": "Manjunath",
+		  "lastname": "konda"
+        }
+		]
+		}
